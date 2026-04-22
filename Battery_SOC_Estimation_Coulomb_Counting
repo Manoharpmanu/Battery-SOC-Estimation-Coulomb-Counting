@@ -1,0 +1,24 @@
+# Battery SOC Estimation using Coulomb Counting
+
+This project focuses on estimating the State of Charge (SOC) of a battery using the Coulomb counting method.
+
+## Key Concepts:
+- State of Charge (SOC)
+- Coulomb counting method
+- Battery charge/discharge behavior
+
+## Methodology:
+- Assumed initial SOC
+- Applied constant current
+- Calculated SOC variation over time
+- Plotted SOC vs Time graph
+
+## Tools Used:
+- MATLAB
+
+## Output:
+- Graph: SOC (%) vs Time
+
+## Applications:
+- Battery monitoring systems (BMS)
+- Electric vehicle energy management
